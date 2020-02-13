@@ -1,0 +1,4 @@
+#Thu Feb 13 10:37:58 2020
+db.user=mkyong
+db.password=password
+db.url=localhost
